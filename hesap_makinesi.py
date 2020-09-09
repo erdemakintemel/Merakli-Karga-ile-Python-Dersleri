@@ -1,0 +1,11 @@
+x=int(input("birinci sayıyı girin"))
+y=int(input("ikinci sayıyı girin"))
+
+print("toplama işlemi sonucu:")
+print(x+y)
+print("çıkarma işlemi sonucu:")
+print(x-y)
+print("çarpma işlemi sonucu:")
+print(x*y)
+print("bölme işlemi sonucu:")
+print(x/y)
